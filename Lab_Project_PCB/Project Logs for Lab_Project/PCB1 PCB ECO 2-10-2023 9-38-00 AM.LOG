@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC16_2 Pin=R33-1
+Added Component: Designator=I1()
+Added Component: Designator=O1(AUDIO_OUT)
+Added Component: Designator=P1()
+Add Pin To Net: Unknown Pin: Pin I1-1
+Added Pin To Net: NetName=GND Pin=O1-2
+Added Pin To Net: NetName=NetC16_2 Pin=O1-3
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Added Pin To Net: NetName=NetI1_2 Pin=R33-1
+Added Net: Name=NetI1_2
+Add Class Member: Failed to add class member : Component I1 A_IN
+Added Member To Class: ClassName=Sheet1 Member=Component O1
+Add Class Member: Failed to add class member : Component P1 POWER
+Added Room: Name=Sheet1

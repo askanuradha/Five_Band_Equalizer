@@ -1,0 +1,10 @@
+Change Component Comment : Designator=O1 Old Comment=O1 New Comment=J?
+Added Component: Designator=I1(AUDIO_IN)
+Added Component: Designator=P1(POWER)
+Added Pin To Net: NetName=GND Pin=I1-1
+Added Pin To Net: NetName=NetI1_2 Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=-10 V Pin=P1-3
+Added Member To Class: ClassName=Sheet1 Member=Component I1 A_IN
+Added Member To Class: ClassName=Sheet1 Member=Component P1 POWER

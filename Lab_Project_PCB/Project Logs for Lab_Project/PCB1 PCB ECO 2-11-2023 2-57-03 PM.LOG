@@ -1,0 +1,8 @@
+Change Component Comment : Designator=I1 Old Comment=A_IN New Comment=IN
+Change Component Comment : Designator=O1 Old Comment=J? New Comment=OUT
+Change Component Designator: OldDesignator=I1 NewDesignator=IN
+Change Component Designator: OldDesignator=O1 NewDesignator=OUT
+Change Component Designator: OldDesignator=P1 NewDesignator=POWER
+Added Pin To Net: NetName=NetC29_1 Pin=R46-2
+Change Net Name : Old Net Name=NetI1_2 New Net Name=NetIN_2
+Added Room: Name=Sheet1
